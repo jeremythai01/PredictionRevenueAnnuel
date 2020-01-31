@@ -4,7 +4,8 @@ Projet en science de donnée où nous devions prédire si une personne a un reve
 
 Librairies utilisés : scikit-learn, NumPy, Pandas
 
-Facteurs considérés : statut matrimonial, éducation, ethie, sexe, pays d'origine, etc. 
+Facteurs considérés : statut matrimonial, éducation, ethie, sexe, pays d'origine, etc.
+
 L'ensemble de données provient de  https://archive.ics.uci.edu/ml/datasets/Adult
 
 Réalisé au cours de l'atelier sur la science de donnée/l'aprrentissage automatique à l'université HEC. 
