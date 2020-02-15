@@ -8,4 +8,4 @@ Facteurs considérés : statut matrimonial, éducation, ethie, sexe, pays d'orig
 
 L'ensemble de données provient de  https://archive.ics.uci.edu/ml/datasets/Adult
 
-Réalisé au cours de l'atelier sur la science de donnée/l'aprentissage automatique à l'université HEC. 
+Réalisé au cours de l'atelier sur la science des données/l'aprentissage automatique à l'université HEC. 
