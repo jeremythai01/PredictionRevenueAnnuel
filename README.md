@@ -7,5 +7,3 @@ Librairies utilisés : scikit-learn, NumPy, Pandas
 Facteurs considérés : statut matrimonial, éducation, ethie, sexe, pays d'origine, etc.
 
 L'ensemble de données provient de  https://archive.ics.uci.edu/ml/datasets/Adult
-
-Réalisé au cours de l'atelier sur la science des données/l'aprentissage automatique à l'université HEC. 
